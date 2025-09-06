@@ -1,4 +1,41 @@
 id,title,org,location,skills,domain,apply_url
-1,Data Analytics Intern,Ministry of Corporate Affairs,Delhi,"Python, Excel, Data Analysis",Analytics,https://example.com/apply/1
-2,Content Writing Intern,National Skill Development Corporation,Remote,"Content Writing, SEO, Research",Communications,https://example.com/apply/2
-3,Web Development Intern,Digital India Corporation,Bengaluru,"HTML, CSS, JavaScript",Software,https://example.com/apply/3
+1,Data Analytics Intern,Ministry of Corporate Affairs,Delhi,"Python, Excel, Data Analysis",Analytics,https://internship.aicte-india.org/
+2,Content Writing Intern,National Skill Development Corporation,Remote,"Content Writing, SEO, Research",Communications,https://www.mygov.in/
+3,Web Development Intern,Digital India Corporation,Bengaluru,"HTML, CSS, JavaScript",Software,https://www.digitalindia.gov.in/
+4,Finance Research Intern,NITI Aayog,Delhi,"Finance, Excel, Research",Finance,https://niti.gov.in/
+5,Social Media Intern,MyGov,Remote,"Social Media, Canva, Copywriting",Marketing,https://www.mygov.in/
+6,GIS Mapping Intern,Survey of India,Hyderabad,"GIS, QGIS, Spatial Analysis",Geospatial,https://www.surveyofindia.gov.in/
+7,Machine Learning Intern,MeitY Innovation Cell,Pune,"Python, ML, Scikit-learn",AI/ML,https://www.meity.gov.in/
+8,HR Coordination Intern,AICTE,Chennai,"HR, Communication, MS Office",Human Resources,https://internship.aicte-india.org/
+9,Cyber Security Intern,National Informatics Centre,Hyderabad,"Networking, Security, Linux",Cybersecurity,https://www.nic.in/
+10,Design Intern,Open Government Data Platform,Mumbai,"Figma, UI/UX, Prototyping",Design,https://data.gov.in/
+11,Policy Research Intern,Ministry of External Affairs,Delhi,"International Relations, Writing",Policy,https://www.mea.gov.in/
+12,E-Governance Intern,Ministry of Electronics and IT,Delhi,"E-Gov Tools, Research",Governance,https://www.meity.gov.in/
+13,Energy Policy Intern,Ministry of Power,Delhi,"Energy Systems, Policy",Energy,https://powermin.gov.in/
+14,Smart City Intern,Smart Cities Mission,Pune,"Urban Planning, GIS",Urban Development,https://smartcities.gov.in/
+15,Agriculture Data Intern,Ministry of Agriculture,Lucknow,"Excel, Data Entry, Statistics",Agriculture,https://agricoop.gov.in/
+16,Transport Research Intern,Ministry of Road Transport & Highways,Delhi,"Research, Excel, Policy",Transport,https://morth.nic.in/
+17,Climate Change Intern,Ministry of Environment,Delhi,"Climate Studies, Research",Environment,https://moef.gov.in/
+18,Health Data Intern,Ministry of Health,Chennai,"Healthcare, Data Analysis",Healthcare,https://www.mohfw.gov.in/
+19,Tourism Promotion Intern,Ministry of Tourism,Goa,"Marketing, Content, Social Media",Tourism,https://tourism.gov.in/
+20,Legal Research Intern,Ministry of Law & Justice,Delhi,"Law, Legal Drafting",Law,https://lawmin.gov.in/
+21,Statistics Intern,Ministry of Statistics & Programme Implementation,Kolkata,"R, Statistics, Excel",Statistics,https://mospi.gov.in/
+22,AI Research Intern,Centre for Development of Advanced Computing (C-DAC),Pune,"Python, ML, AI",AI/ML,https://www.cdac.in/
+23,Defence Research Intern,DRDO,Hyderabad,"Engineering, Simulation",Defence,https://www.drdo.gov.in/
+24,Space Data Intern,ISRO,Bengaluru,"Remote Sensing, Data Science",Space,https://www.isro.gov.in/
+25,Biotech Intern,Department of Biotechnology,Delhi,"Biology, Lab Work, Research",Biotech,https://dbtindia.gov.in/
+26,Media Intern,Press Information Bureau,Delhi,"Writing, Media Relations",Media,https://pib.gov.in/
+27,Education Policy Intern,Ministry of Education,Delhi,"Policy, Research, Writing",Education,https://www.education.gov.in/
+28,Finance Audit Intern,Comptroller & Auditor General of India,Delhi,"Accounting, Auditing",Finance,https://cag.gov.in/
+29,Startup Promotion Intern,Startup India,Delhi,"Entrepreneurship, Research",Startup,https://www.startupindia.gov.in/
+30,Innovation Intern,Atal Innovation Mission (AIM),Delhi,"Innovation, Business Models",Innovation,https://aim.gov.in/
+31,Rural Development Intern,Ministry of Rural Development,Patna,"Field Work, Data Collection",Rural Development,https://rural.nic.in/
+32,Culture & Heritage Intern,Ministry of Culture,Jaipur,"History, Arts, Writing",Culture,https://www.indiaculture.nic.in/
+33,Parliament Research Intern,Parliament of India,Delhi,"Law, Research, Writing",Policy,https://sansad.in/
+34,Renewable Energy Intern,MNRE (Ministry of New and Renewable Energy),Delhi,"Solar, Wind, Research",Energy,https://mnre.gov.in/
+35,Telecom Policy Intern,Department of Telecommunications,Delhi,"Networking, Policy",Telecom,https://dot.gov.in/
+36,Railways Data Intern,Indian Railways,Kolkata,"Data Analysis, Logistics",Transport,https://indianrailways.gov.in/
+37,Water Resource Intern,Ministry of Jal Shakti,Delhi,"Water Studies, GIS",Water Resources,https://jalshakti-dowr.gov.in/
+38,Sports Management Intern,Sports Authority of India,Delhi,"Sports, Event Management",Sports,https://sportsauthorityofindia.nic.in/
+39,Electronics Intern,Bharat Electronics Limited,Bengaluru,"Electronics, Hardware",Electronics,https://bel-india.in/
+40,Petroleum Research Intern,Ministry of Petroleum & Natural Gas,Delhi,"Petroleum, Energy Studies",Energy,https://mopng.gov.in/
